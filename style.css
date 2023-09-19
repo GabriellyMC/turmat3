@@ -1,0 +1,13 @@
+header {
+    /* border: solid black; */
+    height: 100px;
+    background-color: purple;
+}
+li {
+    display: inline-block;
+    font-size: 30px; /*Tamanho da fonte*/
+    /* border: solid blue; */
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white; /*Mudar a cor da fonte*/
+  }
